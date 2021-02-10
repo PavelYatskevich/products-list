@@ -38,7 +38,7 @@
 }
 
 .form {
-display: flex;
+  display: flex;
   flex-direction: column;
   text-align: left;
 }
@@ -46,4 +46,7 @@ display: flex;
   position: absolute;
   top: 5px;
   right: 5px;
+}
+.product-name {
+  cursor: pointer;
 }
